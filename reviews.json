@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Carter",
+        "review": "Great professor, very clear explanations and always helpful.",
+        "subject": "Computer Science",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. John Smith",
+        "review": "The course was challenging, but Dr. Smith made the material accessible.",
+        "subject": "Mathematics",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Alice Brown",
+        "review": "Engaging lectures and very supportive during labs.",
+        "subject": "Physics",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Michael Davis",
+        "review": "Struggled with the material; the lectures were confusing.",
+        "subject": "Chemistry",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "review": "Fantastic professor who deeply cares about her students.",
+        "subject": "English",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Robert King",
+        "review": "Interesting lectures, but exams were tough.",
+        "subject": "History",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Linda Moore",
+        "review": "Very knowledgeable but sometimes hard to follow.",
+        "subject": "Biology",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Richard Patel",
+        "review": "Provides lots of resources, but the course is intense.",
+        "subject": "Engineering",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Jessica Turner",
+        "review": "Creates a positive learning environment and encourages participation.",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. William Harris",
+        "review": "Great lectures, but grading is strict.",
+        "subject": "Political Science",
+        "stars": 4
+      },
+    {
+      "professor": "Dr. Anna Thompson",
+      "review": "Very passionate about the subject and makes lectures engaging.",
+      "subject": "Philosophy",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Charles Reed",
+      "review": "The content is interesting, but the lectures can be monotonous.",
+      "subject": "Economics",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Nancy Green",
+      "review": "Always available for extra help, and the assignments are fair.",
+      "subject": "Sociology",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Thomas White",
+      "review": "Extremely knowledgeable, but the course moves very fast.",
+      "subject": "Chemistry",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Rachel Morgan",
+      "review": "Brilliant professor, but the grading is tough.",
+      "subject": "Political Science",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Henry Wilson",
+      "review": "Lectures are well-structured and easy to follow.",
+      "subject": "Statistics",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Olivia Parker",
+      "review": "Very supportive and encourages creative thinking.",
+      "subject": "Art History",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Steven Clark",
+      "review": "Interesting material, but the exams are very difficult.",
+      "subject": "Physics",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Laura Davis",
+      "review": "The course is challenging, but Dr. Davis is always willing to help.",
+      "subject": "Literature",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. James Walker",
+      "review": "Great professor, very approachable and knowledgeable.",
+      "subject": "Engineering",
+      "stars": 5
+    }
+  ]
+}
